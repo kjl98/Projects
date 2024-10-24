@@ -1,2 +1,2 @@
-# CODSOFT
-Internship duration at CODSOFT
+# mini_projects
+
